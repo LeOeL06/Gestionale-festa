@@ -1,4 +1,0 @@
-Birra-4.5
-Vino-3.5
-Montenegro-3.0
-Caffe corretto-1.5
